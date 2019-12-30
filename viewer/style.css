@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    width: 70%;
+    margin: auto;
+}
+
+.d2h-file-list-title {
+    font-family: sans-serif !important;
+}
+
+#diffElement {
+    margin: 20px;
+    padding: 10px;
+}
+
+#messageContainer {
+    margin: 50px;
+    padding: 30px;
+    background-color: #d5e4f2;
+}
+
+.container {
+    margin: 5px;
+    padding: 5px;
+}
+
+.big-container {
+    margin: 15px;
+    padding: 15px;
+}
+
+#message {
+    width: 60%;
+}
+
+#score {
+    text-decoration: double;
+}
+
+#answerContainer {
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+}
+
+button {
+    background-color: #999;
+    /* Green */
+    margin: 5px;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+}
+
+textarea {
+    width: 70%;
+}
+
+.dispute {
+    padding: 5px;
+    margin: 5px;
+}
